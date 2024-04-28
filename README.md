@@ -36,7 +36,8 @@ My home lab serves as a hands-on environment for:
 <img align="center" src="https://i.imgur.com/hsgq76C.png" /><br/>
 
 
-
+I would like to thank lot of passionate people who have inspired me create my labs<br>
+[CYBERWOX ACADEMY](https://cyberwoxacademy.com/building-a-cybersecurity-homelab-for-detection-monitoring/)
 
 <h2>  Connect with me:</h2>
 
