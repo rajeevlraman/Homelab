@@ -5,7 +5,7 @@
 Welcome to my home lab setup! "Dashershomelab" I've created this environment to learn and understand various aspects of networking, monitoring, prevention, administration, and hardening techniques. It's been an incredible learning experience, and I'm excited to share my setup with you.
 
 ### Hardware
-- **Host PC:** Repurposed gaming PC with upgraded RAM to 64GB and a 2TB M.2 storage for enhanced performance.
+- **Host PC:** Repurposed gaming PC with RAM upgraded to 64GB and a 2TB M.2 storage for enhanced performance.
 - **Network Segmentation:** I've segmented the network to simulate an internal and external network, using span ports to direct all data to the monitoring system.
 - **Raspberry Pis:** I've included three Raspberry Pis in my setup:
   - One hosts Nessus vulnerability scanner.
