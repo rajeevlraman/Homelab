@@ -10,7 +10,7 @@ Welcome to my home lab setup! "Dashershomelab" I've created this environment to 
 - **Raspberry Pis:** I've included three Raspberry Pis in my setup:
   - One hosts Nessus vulnerability scanner.
   - Another runs Home Assistant for home automation.
-  - The third is dedicated to Pi-Hole, serving as my DNS server primarily for ad-blocking.
+  - The third Pi is dedicated to Pi-Hole, serving as my DNS server primarily for ad-blocking.
 
 ### Virtual Machines
 - **Host OS:** Windows 11
