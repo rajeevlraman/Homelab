@@ -2,17 +2,17 @@
 
 
 ## Overview
-Welcome to ***Dashershomelab*** I've created this environment to learn and understand various aspects of networking, monitoring, prevention, administration, and hardening techniques. It's been an incredible learning experience, and I'm excited to share my setup with you.
+Welcome to ***Dashershomelab*** I've created this environment to learn and understand various aspects of networking, monitoring, prevention, administration, and hardening techniques. It's been an incredible learning experience, and I'm excited to share my setup with you.<br><br>
 
-### Hardware
+## Hardware
 - **Host PC:** Repurposed gaming PC with RAM upgraded to 64GB and a 2TB M.2 storage for enhanced performance.
 - **Network Segmentation:** I've segmented the network to simulate an internal and external network, using span ports to direct all data to the monitoring system.
 - **Raspberry Pis:** I've included three Raspberry Pis in my setup:
   - One hosts Nessus vulnerability scanner.
   - Another runs Home Assistant for home automation.
-  - The third Pi is dedicated to Pi-Hole, serving as my DNS server primarily for ad-blocking.
+  - The third Pi is dedicated to Pi-Hole, serving as my DNS server primarily for ad-blocking.<br><br>
 
-### Virtual Machines
+## Virtual Machines
 - **Host OS:** Windows 11
 - **Firewall/IDS:** PfSense with Snort extension
 - **External Attack Machine:** Kali Linux
@@ -20,7 +20,7 @@ Welcome to ***Dashershomelab*** I've created this environment to learn and under
 - **Vulnerable Machines:** Four intentionally vulnerable machines for testing and practice.
 - **Monitoring:**
   - **Splunk:** Monitoring the Windows environment.
-  - **Security Onion:** Monitoring all traffic via PfSense span port.
+  - **Security Onion:** Monitoring all traffic via PfSense span port.<br><br>
 
 ## Purpose
 My home lab serves as a hands-on environment for:
@@ -31,9 +31,9 @@ My home lab serves as a hands-on environment for:
 - Testing security measures and configurations.
 <br> <br>
 <!--# Home Lab Setup-->
-<b>HomeLab Topology</b><br/>
+## <b>HomeLab Topology</b><br><br>
 
-<img align="center" src="https://i.imgur.com/hsgq76C.png" /><br/>
+<img align="center" src="https://i.imgur.com/hsgq76C.png" /><br><br>
 
 
 I would like to thank lot of passionate people who have inspired me create my labs<br>
